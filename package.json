@@ -1,6 +1,6 @@
 {
   "name": "macos-alias-building",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "main": "index.js",
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
@@ -23,8 +23,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/LinusU/node-alias.git"
-  },
-  "dependencies": {
-    "nan": "^2.4.0"
   }
 }
