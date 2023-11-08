@@ -1,6 +1,6 @@
 {
   "name": "macos-alias-building",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "main": "index.js",
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
